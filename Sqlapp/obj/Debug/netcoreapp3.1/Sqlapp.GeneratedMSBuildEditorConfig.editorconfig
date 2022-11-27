@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Sqlapp
+build_property.ProjectDir = D:\Azure-Dev\AZ-204 - Develop Azure Compute Solutions - Azure Web Apps\3. Lab - Connecting to Azure SQL using local connection strings\Sqlapp\Sqlapp\

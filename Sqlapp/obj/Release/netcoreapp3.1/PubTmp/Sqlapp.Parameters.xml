@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sqlappwin" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Azure-Dev\\AZ-204\ -\ Develop\ Azure\ Compute\ Solutions\ -\ Azure\ Web\ Apps\\3\.\ Lab\ -\ Connecting\ to\ Azure\ SQL\ using\ local\ connection\ strings\\Sqlapp\\Sqlapp\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
